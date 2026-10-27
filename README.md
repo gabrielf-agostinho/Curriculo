@@ -16,6 +16,7 @@ Este repositório guarda as versões atualizadas do meu currículo, em PDF (para
 | Português | Versão completa com layout formatado | [PDF](pdf/Gabriel%20Felipe%20de%20Agostinho.pdf) | [DOCX](docx/Gabriel%20Felipe%20de%20Agostinho.docx) |
 | English | Versão em inglês | [PDF](pdf/Gabriel%20Felipe%20de%20Agostinho%20-%20English.pdf) | [DOCX](docx/Gabriel%20Felipe%20de%20Agostinho%20-%20English.docx) |
 | ATS | Layout simplificado para sistemas de triagem automática (ATS) | [PDF](pdf/Gabriel%20Felipe%20de%20Agostinho%20-%20ATS.pdf) | [DOCX](docx/Gabriel%20Felipe%20de%20Agostinho%20-%20ATS.docx) |
+| English ATS | Versão ATS em inglês | [PDF](pdf/Gabriel%20Felipe%20de%20Agostinho%20-%20English%20ATS.pdf) | [DOCX](docx/Gabriel%20Felipe%20de%20Agostinho%20-%20English%20ATS.docx) |
 
 ## Resumo
 
